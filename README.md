@@ -1,8 +1,8 @@
-### Hi there 👋
+![MERN Stack Developer](https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.6435-9/201178279_311721457269154_8705927081394896834_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFsmaajHEHIiOdiPYZ7qzC4zHzS_uUPKmzMfNL-5Q8qbKpDs0Or5Dl2YIGjs1HQ0QZwpcy8ixfDDM2oCLKz_NtT&_nc_ohc=fcZpVXBq4ZsAX-B9bAT&_nc_oc=AQkoQGkdxNNX4zL-mobBb9fs1UjK0wsmsdHHcuoMObpS-XZHPFI6njLmFAKuc3oTAzE&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT8OLqNtPPLqBQVDGfQeODk8EemAQmHp9Wb30tqLKVOLjQ&oe=628FB8B3)
 
 ### Hi there 👋, I'm Sadik Hossain
 #### MERN Stack Developer
-![MERN Stack Developer](https://scontent.fjsr8-1.fna.fbcdn.net/v/t1.6435-9/201178279_311721457269154_8705927081394896834_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFsmaajHEHIiOdiPYZ7qzC4zHzS_uUPKmzMfNL-5Q8qbKpDs0Or5Dl2YIGjs1HQ0QZwpcy8ixfDDM2oCLKz_NtT&_nc_ohc=fcZpVXBq4ZsAX-B9bAT&_nc_oc=AQkoQGkdxNNX4zL-mobBb9fs1UjK0wsmsdHHcuoMObpS-XZHPFI6njLmFAKuc3oTAzE&_nc_ht=scontent.fjsr8-1.fna&oh=00_AT8OLqNtPPLqBQVDGfQeODk8EemAQmHp9Wb30tqLKVOLjQ&oe=628FB8B3)
+
 
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication.
 
