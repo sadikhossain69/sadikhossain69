@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/progmamun/" target="_blank" rel="noopener"><p align="center"> <img src="https://rawcdn.githack.com/progmamun/programming-hero/5e7a9d93012540777c2880f116cd243fc3df4e85/milestone-9/v0.2.svg" alt="" /> </a>
+
 
 <h1 align="center">Hi There<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a>, I'm Sadik Hossain</h1>
 
@@ -6,13 +6,13 @@
 <br />
 <br />
 
-[![Github](https://img.shields.io/github/followers/progmamun?label=Follow&style=social)](https://github.com/progmamun)&nbsp;![Profile views](https://gpvc.arturio.dev/progmamun)
+[![Github](https://img.shields.io/github/followers/progmamun?label=Follow&style=social)](https://github.com/progmamun)&nbsp;![Profile views](https://gpvc.arturio.dev/sadikhossain69)
 
 🌱 I’m currently learning [Golang](https://golang.org/) And [DevOps](https://www.google.com/search?q=DevOps)
 
 💬 Ask me about **Web Solutions**<a href="https://stackoverflow.com/users/15274012/al-mamun-khan" target="_blank" rel="noopener" ><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2-432547.png" height="20" width="20"/></a>
 
-📫 How to reach me: progmamun@gmail.com
+📫 How to reach me: sadikhossain433@gmail.com
 
 ⚡ Fun fact **I Think i'm funny too :)**
 <br/><br/>
