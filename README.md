@@ -34,9 +34,6 @@
 </p>
 <br/>
 
-### Other Languages I know
-
-<img src="https://img.shields.io/badge/-go-lang?style=flat&logo=go&logoColor=white" height="25"/> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff" height="25"/> <img src="https://img.shields.io/badge/-Php-black?style=flat&logo=php&logoColor=white" height="25"/>
 
 ---
 
@@ -49,7 +46,7 @@
 <a href="https://www.linkedin.com/in/progmamun/" target="_blank" rel="noopener"><img align="center" src="https://rawcdn.githack.com/progmamun/demo/bb7255483e0e917d6dab306620eb7ae8b94ba04c/storage/tempfiles/Asset%2019rgblogo.jpg" height="30" width="40" /></a><a href="https://twitter.com/progmamun/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="progmamun" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/progmamun/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="progmamun" height="30" width="40" /></a>
 <a href="https://www.facebook.com/AlmamunkhanDev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="AlmamunkhanDev" height="30" width="40" /></a>
-<a href="https://www.instagram.com/progmamun/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="progmamun" height="30" width="40" /></a>
+<a href="https://www.instagram.com/progmamun/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sadik" height="30" width="40" /></a>
 </p>
 <br>
 <br />
