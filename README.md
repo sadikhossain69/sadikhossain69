@@ -12,7 +12,7 @@
 
 🌱 I’m currently learning [Golang](https://golang.org/) And [DevOps](https://www.google.com/search?q=DevOps)
 
-💬 Ask me about **Web Solutions**<a href="https://stackoverflow.com/users/15274012/al-mamun-khan" target="_blank" rel="noopener" ><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2-432547.png" height="20" width="20"/></a>
+💬 Ask me about **Web Solutions**<img align="center" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2-432547.png" height="20" width="20"/></a>
 
 📫 How to reach me: sadikhossain433@gmail.com
 
